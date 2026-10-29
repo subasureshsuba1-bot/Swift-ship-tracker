@@ -1,0 +1,38 @@
+PHASE 1: Prepare the Four Browser Tabs Before Recording
+
+Before starting the screen recording, open your browser and prepare the following four tabs on your laptop.
+
+Tab 1: GitHub Repository
+
+How to open it:
+
+1. Go to "GitHub" (https://github.com/) and log in to your account.
+2. Open your Swift-Ship-Tracker repository.
+3. Keep the repository page ready. It should contain the "force-app" folder and your project report in PDF format.
+
+Tab 2: Salesforce Object Manager
+
+How to open it:
+
+1. Open a new browser tab and log in to your Salesforce organization.
+2. Click the gear icon in the top-right corner and select Setup.
+3. Open Object Manager from the top menu.
+4. Locate and open the "Parcel__c" custom object.
+
+Tab 3: Salesforce Prompt Builder
+
+How to open it:
+
+1. Go to the Salesforce Setup page.
+2. In the Quick Find search box on the left, type "Prompt Builder".
+3. Open Prompt Builder.
+4. Locate and open your prompt template named Retrieve Parcel Details.
+
+Tab 4: Agentforce Preview – Main Demo
+
+How to open it:
+
+1. Return to the Salesforce Setup page.
+2. Search for Agents or Agentforce in the Quick Find box.
+3. Open your configured agent.
+4. Make sure the Preview chat panel is visible and ready for testing.
