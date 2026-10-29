@@ -1,4 +1,3 @@
- Stop and Save the Recording
 
 After finishing the presentation:
 
