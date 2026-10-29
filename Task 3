@@ -1,0 +1,43 @@
+PHASE 5: Upload the Video to Google Drive and Submit the Links
+
+Step 1: Upload the Video
+
+1. Open "Google Drive" (https://drive.google.com/).
+2. Click New → File upload.
+3. Select your recorded demo video.
+4. Wait until the upload is complete.
+
+Step 2: Create a Shareable Video Link
+
+1. Locate the uploaded video in Google Drive.
+2. Right-click the file and select Share.
+3. Under General access, change Restricted to Anyone with the link, if permitted by your account or organization.
+4. Set the access role to Viewer.
+5. Click Copy link and save the link for submission.
+
+Step 3: Submit the Project Links on SkillWallet
+
+1. Open the SkillWallet portal and navigate to your project submission section.
+2. Paste your Swift-Ship-Tracker GitHub repository link into the GitHub repository field.
+3. Paste your Google Drive demo video link into the video URL field.
+4. Double-check both links to ensure they are correct.
+5. Click Submit.
+
+Finally, verify that the portal displays the expected completion status. If the project status changes to 100% Completed, your submission is complete.
+
+---
+
+Final Checklist Before Submission
+
+- [ ] All four browser tabs are prepared.
+- [ ] The GitHub repository and project report are visible.
+- [ ] The "Parcel__c" custom fields are displayed.
+- [ ] The Retrieve Parcel Details prompt template is ready.
+- [ ] The Agentforce test with P-005 works correctly.
+- [ ] The video recording includes clear audio and screen content.
+- [ ] The video has been uploaded to Google Drive.
+- [ ] The video link has the required viewing permissions.
+- [ ] Both the GitHub and video links have been submitted to SkillWallet.
+- [ ] The final project status has been checked.
+
+Important: Make sure every feature you describe is actually configured and working in your Salesforce project. The demo should accurately represent your implementation.
